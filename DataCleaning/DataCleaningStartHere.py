@@ -5,3 +5,5 @@
 5. Concatenating, combines two data files. 
 6. Globbing combines multiple data files. 
 7. Regular Expressions, are used to match vaules to a specific format such as in money $20.17 or phone numbers (123) 456-7890.
+8. Duplicat & Missing Values, allows you to delete or replace NaN missing values. 
+9. Asserts, allow you to programically verify something you would usually look for manually with .info()
