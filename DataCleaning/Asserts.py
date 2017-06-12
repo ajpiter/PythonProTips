@@ -4,7 +4,14 @@
 #If an assert statement is false then you will get an error
 
 assert database.column.notnull().all()
-
 assert pd.notnull(dataframe).all().all()
-
 assert(dataframe >= 0).all().all()
+
+# Test if column is of type object
+assert dataframe.column.dtypes == np.object
+
+# Test if column is of type int64
+assert dataframe.column.dtypes == np.int64
+
+# Test if column is of type float64
+assert dataframe.column.dtypes == np.float64
