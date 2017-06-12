@@ -1,6 +1,9 @@
 # To find data types 
 print(dataframe.dtypes) 
 
+#To convert data to numeric 
+dataframe.columnname = pd.to_numeric(dataframe.columnname)
+
 # To convert data from one type to another, 
 dataframe['columnname'] = dataframe['columnname'].astype(typetoconvertto)
 
