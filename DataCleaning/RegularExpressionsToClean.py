@@ -11,6 +11,7 @@ bool(result)
 # \$ represents the actual $ when proceded by \ 
 # \. represents the . when proceded by \ 
 # \d{2} would match exactly two digits 
+#A-Za-z tp match upper and lower case letters 
 
 # ^ match begining value 
 # $ match end value 
@@ -35,4 +36,20 @@ def diff_money(row, pattern):
         return (NaN)
 dataframe['diff'] = dataframe.apply(diff_money, axis = 1, pattern = pattern)
 print(dataframe.head())
-    
+
+#OR another example that prints, anything that does not match the regular expression. 
+
+# Create the series 
+seriesname = dataframe.columnname 
+# Drop all the duplicates from countries
+seriesname = seriesname.drop_duplicates()
+# Write the regular expression: pattern
+pattern = '^[A-Za-z\.\s]*$'
+# Create the Boolean vector
+mask = seriesname.str.contains(pattern)
+# Invert the mask: mask_inverse
+mask_inverse = ~mask
+# Subset countries using mask_inverse
+invalid_seriesname = seriesname.loc[mask_inverse]
+# Print invalid_countries
+print(invalid_seriesname)
