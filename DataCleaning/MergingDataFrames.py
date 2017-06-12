@@ -1,5 +1,5 @@
 #Similar to joining tables in SQL. 
-# #Combine datasets based on common columns. 
+#Combine datasets based on common columns. 
 #If the column names are the same use on = columnname
 
 import padas as pd 
