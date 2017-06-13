@@ -1,6 +1,6 @@
-#By customizing the axes on a plot, you can zoom into specific sections of the plot. 
+#By customizing the axis on a plot, you can zoom into specific sections of the plot. 
 
-#To adjust the entire axes
+#To adjust the entire axis
 axis([xmin, xmax, ymin, ymax])
 
 #To adjust indivdual axis limits 
