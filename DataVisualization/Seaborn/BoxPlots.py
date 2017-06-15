@@ -1,4 +1,5 @@
 #Box Plots show illstrations of values for a dataset including the min, max, median, 1st quartile, 3rd quartile and outliers. 
+#Box plots can also be made using matplotlib without seaborn
 
 import pandas as pd
 import matplotlib.pyplot as plt 
