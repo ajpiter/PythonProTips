@@ -5,5 +5,5 @@ import matplotlib.pyplot as plt
 variable = pd.read_csv('file.csv') 
 print(variable.shape)
 variable.head()
-varaibale.plot(x='columnname', y='columnname2') 
+variable.plot(x='columnname', y='columnname2') 
 plt.show()
