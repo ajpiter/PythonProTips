@@ -19,3 +19,10 @@ pd.DataFrame.hist(data[['columnname']])
 plt.xlabel('labelname')
 plt.ylabel('labelname(subname)')
 plt.show()
+
+#Sidenote :/ 
+#In pandas you can create a histogram using multiple functions.
+#Each creates a histogram but the results differ slightly. 
+datframe.plot(kind='hist')
+dataframe.plt.hist()
+dataframe.hist()
