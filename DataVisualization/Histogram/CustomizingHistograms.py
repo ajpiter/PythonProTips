@@ -9,4 +9,7 @@ import pandas as pd
 import matplotlib.pyplot as plt 
 variable = pd.read_csv('file.csv')
 variable.plot(y='columnname', kind='hist', bins=30, range=(4,6), normed=True) 
+plt.title('Title') 
+plt.xlabel('labelname')
+plt.ylabel('labelname(subname)')
 plt.show()
