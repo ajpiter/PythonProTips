@@ -1,6 +1,9 @@
 #A historgram with a cumulative distrubution function or CDF plots the total for each bin, and all the lower bins. 
 #This plot creates a ramp shape as opposed to the traditional bell curve in a histogram. 
 
+import pandas as pd 
+import matplotlib.pyplot as plt 
+variable = pd.read_csv('file.csv'
 variable.plot(y='columnname', kind='hist', bins=30, range=(4,8), cumulative=True, normed=True)
 plt.title('Title')
 plt.xlabel('Label')
