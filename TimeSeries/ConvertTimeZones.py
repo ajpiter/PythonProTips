@@ -1,3 +1,6 @@
+#To extract the hour of the day from the date column 
+datebase['columnname'].dt.hour 
+
 #To convert time zones 
 #first localize to the timezone that the data is in, in this case central 
 central = database['colunname'].dt.tz_localize('US/Central')
