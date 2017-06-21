@@ -3,5 +3,6 @@ import pandas as pd
 variable = pd.read_csv('filename.csv', parse_dates=['Date']
 variable.head()
 
-#To transfer all the values in a column to upper case
-database['Columnname'].str.upper()
+#OR TO convert indivdual strings to datetime
+variable = pd.to_datetime(['yyyy-mm-dd hh:ss', 'yyyy-mm-dd hh:ss', 'yyyy-mm-dd hh:ss'])
+
