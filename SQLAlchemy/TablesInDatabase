@@ -1,0 +1,14 @@
+#Allows you to see which tables are in your database 
+
+from sqlalchemy import create_engine
+enginevariable = create_engine('sqlite:///filename.sqlite')
+print(enginevariable.table_names())
+
+#Once you know what table you want to work on you can use reflection to access that table with Python
+#Reflection reads the database and builds a table object 
+
+from sqlalchemy import MetaData, Table 
+#to reflect the table we use MetaData()
+metadata = MetaData()
+tablevariable = Table('tablename', metadata, autoload=True, autoload_with = enginevariable) 
+print(repr(tablevariable))
