@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 #load the dataset 
 variable = sns.load_dataset('nameoffile')
-sns.swarmplot(x='columnname'. y='columnnameb', data=variable)
+sns.swarmplot(x='columnname'. y='columnnameb', data=dataframe)
 plt.ylabel('Label')
 plt.show()
 
@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 #load the dataset 
 variable = sns.load_dataset('nameoffile')
-sns.swarmplot(x='columnname', y='columnnameb', data='variable, hue='columnnamec')
+sns.swarmplot(x='columnname', y='columnnameb', data=dataframe, hue='columnnamec')
 plt.ylabel('Label')
 plt.show()
 
@@ -25,6 +25,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 #load the dataset 
 variable = sns.load_dataset('nameoffile')
-sns.swarmplot(x='columname', y='columnnameb', data=variable, hue='columnnamec', orient='h')
+sns.swarmplot(x='columname', y='columnnameb', data=dataframe, hue='columnnamec', orient='h')
 plt.xlabel('Label')
 plt.show()
