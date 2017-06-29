@@ -11,3 +11,6 @@ np.var(columnname)
 
 #computing the standard deviation, or the square root of the variance 
 np.std(columnname)
+
+#Square Root 
+np.sqrt(variable)
