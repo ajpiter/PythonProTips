@@ -23,7 +23,7 @@ np.sum(heads)
 #initialize the count to 0
 n_all_heads = 0 
 for _ in range(10000):
-  heads = np.random.random.(size=4) < 0.5 
+  heads = np.random.random(size=4) < 0.5 
   n_heads = np.sum(heads)
   if n_heads == 4:
     n_all_heads += 1
