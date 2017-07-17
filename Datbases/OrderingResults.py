@@ -9,6 +9,11 @@ results = connection.execute(stmt).fetchall()
 print(results[:10])
 
 #To order by descending, or highest to lowest use desc()
+from sqlalchemy import desc
+stmt = select([tablename.columns.columnname])
+rev_stmt = stmt.order_by(desc(tablename.columns.columnname))
+rev_results = connection.execute(rev_stmt).fetchall()
+print(rev_results[:10])
 
 #To order by multiple columns you can list multiple columns in the order_by()
 #columns will be sorted by the first column, and then by the second column if there are duplicates from the first 
