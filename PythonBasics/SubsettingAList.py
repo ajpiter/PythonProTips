@@ -4,7 +4,7 @@
 list 
 array([1,2,3,4,5])
 list[1]
-2
+#output would be 2
 
 #You can determine which values in your list are greater than a specific vaule by: 
 list > 4
