@@ -1,6 +1,6 @@
 #a simple dataframe 
 import pandas as pd 
-df = pd.read_csv('sales.csv', index_col = 'month')
+df = pd.read_csv('filename.csv', index_col = 'columnname')
 
 #indexing using square brackets 
 df['columnname']['rowname'] 
