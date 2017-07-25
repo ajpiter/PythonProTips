@@ -12,3 +12,8 @@ listnamevariable[3]
 #Lists can also be indexes from the end using negative numbers begining with -1
 listnamevariable[-1] 
 #would return 4 
+
+#You can also get the index number of an item in a list 
+lista = ["Jan", "Feb", "Mar", "Apr", "May", "June"]
+print(lista.index("May")
+#output 5 
