@@ -15,7 +15,15 @@ basiclist = ['a', 1, 'b', 2, 'c', 3]
 basiclist + ['d', 4] 
 #output of basiclist would be ['a', 1, 'b', 2, 'c', 3, 'd', 4] 
 
-#To remove elements from a list
+#To remove specified elements from a list 
+basiclist = ['a', 1, 'b', 2, 'c', 3]
+basiclist.remove(3)
+#output of basiclist would be ['a', 1, 'b', 2, 'c']
+
+#To remove elements from a list by using the slice
 basiclist = ['a', 1, 'b', 2, 'c', 3] 
 del(basiclist[5])
 #output of basiclist would be ['a', 1, 'b', 2, 'c']
+
+
+
