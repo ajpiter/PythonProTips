@@ -1,5 +1,6 @@
 #Describe provides summary information on the dataset including: 
-#Count, Mean, Standard Deviation (std), min, 1st quartile, mean/2nd quartile, 3rd quartile, and max 
+#Count, Mean, Standard Deviation (std), min, 1st quartile, mean/2nd quartile, 3rd quartile, and max
+#There are multiple methods for calculating basic stats below.
 dataframe.describe()
 
 #Count is the number of entries 
