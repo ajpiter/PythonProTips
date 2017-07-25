@@ -45,7 +45,30 @@ dataframe.quartile(q)
 #Inter-quartile ranges (IQR)
 q = [0.25, 0.75]
 dataframe.quartile(q)
+        
+# for 1st and 3rd quartiles plus the median 
+np.percentile(dataset['columnname'], [25,50,75])
 
+#Square Root 
+np.sqrt(variable)
+#corrcoef
+np.corrcoef(dataframe[:, 0], dataframe[:,1])
+
+#The variance is the mean squared distance of the data from the mean, or a measure of the spread of the data
+np.var(columnname) 
+
+#computing the standard deviation, or the square root of the variance 
+np.std(columnname)
+#Standard Deviations 
+dataframe.std()
+#one column in a dataframe
+dataframe['columnname'].std()
+#the standard deviation of a specific slice of a dataframe 
+np.std(dataframe[:,0])
+
+
+#Square Root 
+np.sqrt(variable)
 #corrcoef
 np.corrcoef(dataframe[:, 0], dataframe[:,1])
 
