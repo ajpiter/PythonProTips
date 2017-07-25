@@ -1,4 +1,8 @@
-#Use pandas and matplotlib to create a historgram. 
+#You can create a basic histogram using matplotlib 
+import matplotlib.pyplot as plt 
+lista = [0,0.6,1.4,1.6,2.2,2.5,2.6,3.2,3.5,3.9,4.2,6] 
+plt.hist(values, bins = 3)
+plt.show()
 
 #Histogram using one column from a file 
 import pandas as pd 
