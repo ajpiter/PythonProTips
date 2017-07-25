@@ -17,5 +17,5 @@ basiclist + ['d', 4]
 
 #To remove elements from a list
 basiclist = ['a', 1, 'b', 2, 'c', 3] 
-del(basiclist[5]
+del(basiclist[5])
 #output of basiclist would be ['a', 1, 'b', 2, 'c']
