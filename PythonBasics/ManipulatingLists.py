@@ -25,5 +25,8 @@ basiclist = ['a', 1, 'b', 2, 'c', 3]
 del(basiclist[5])
 #output of basiclist would be ['a', 1, 'b', 2, 'c']
 
-
+#To reverse the elements in a list
+basiclist = ['a', 1, 'b', 2, 'c', 3] 
+basiclist.reverse()
+#output of y would be [3, 'c', 2, 'b', 1, 'a'] 
 
