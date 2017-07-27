@@ -1,3 +1,8 @@
+#There are multiple ways to index a datframe, including square brackets, loc, and iloc. 
+#[] have limited functionality and are ideally used for 2D NumPy arrays
+#In pandas loc can be used for indexing based on labels 
+#In pandas iloc can be used for indexing based on integers 
+
 #a simple dataframe 
 import pandas as pd 
 df = pd.read_csv('filename.csv', index_col = 'columnname')
