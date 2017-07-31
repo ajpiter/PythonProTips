@@ -7,8 +7,8 @@
 
 #Each line bewteen the inputs and the nodes has a weight that shows how strongly that input affects the node
 #How to solve on paper:
-#HiddenLayerNode1 = (InputNode0 * WeightfromInputtoHidden1) + (InputNode1 * WeightfromInputtoHidden2)
-#HiddenLayerNode2 = (InputNode0 * WeightfromInputtoHidden3) + (InputNode1 * WeightfromInputtoHidden4)
+#HiddenLayerNode0 = (InputNode0 * WeightfromInputtoHidden1) + (InputNode1 * WeightfromInputtoHidden2)
+#HiddenLayerNode1 = (InputNode0 * WeightfromInputtoHidden3) + (InputNode1 * WeightfromInputtoHidden4)
 #Output = (HiddenLayer1 * WeightfromHiddentoOutput1) + (HiddenLayer2 * WeightfromHiddentoOutput2)
 
 #Always move from inputs, to hidden layer, to output using the multiply and add process.
