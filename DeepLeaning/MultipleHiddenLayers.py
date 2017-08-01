@@ -19,7 +19,7 @@ import numpy as np
 #input_data = np.array([InputNode0, InputNode21)
 input_data = np.array([2,3]) 
 #weights = {'input0': np.array([WeightfromInputtoHidden1, WeightfromInputtoHidden2]), 
-    #'node_1: np.array([WeightfromInputtoHidden3, WeightfromInputtoHidden4]), 
+    #'node_1': np.array([WeightfromInputtoHidden3, WeightfromInputtoHidden4]), 
     #'output': np.array([WeightfromHiddentoOutput1, WeightfromHiddentoOutput2])}   
 weights = {'node_0': np.array([1, 1]), 'node_1': np.array([-1, 1]), 'output': np.array([2, -1])}
 node_0_value = (input_data * weights['node_0].sum()
