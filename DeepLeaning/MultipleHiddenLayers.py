@@ -27,3 +27,7 @@ hidden_layer_values = np.array([node_0_value, node_1_value])
 # print(hidden_layer_values) 
 output = (hidden_layer_values * weights['output']).sum()
 print(output) 
+
+                     
+#Deep networks build representations of patterns in the data that are useful for making predicitions.
+#The more hidden layers they go through the more complex patterns they find
