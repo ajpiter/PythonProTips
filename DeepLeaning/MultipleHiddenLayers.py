@@ -1,3 +1,5 @@
+#Example from DataCamp 
+
 #Many neural networks will have more than one hidden layer. 
 #Always move from inputs, to hidden layer, to output using the multiply and add process.
 #Operation is similar to a dot product in liner algebra. 
@@ -31,3 +33,5 @@ print(output)
                      
 #Deep networks build representations of patterns in the data that are useful for making predicitions.
 #The more hidden layers they go through the more complex patterns they find
+#neural networks replace the need to manual create predictive features 
+#Deep learning is also called representation learning 
