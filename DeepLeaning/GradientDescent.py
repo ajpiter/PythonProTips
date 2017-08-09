@@ -1,7 +1,9 @@
 #Gradient Descent 
+#A mathmatical term for an array of slopes 
 
+#To calculate the gradient descent 
 #repeatedly find a slope to find how your lost function changes as the weight changes
-#then made a small change to the weight to get to a lower point 
+#then make a small change to the weight to get to a lower point 
 #repeat until you cannot go down hill anymore 
 
 #Learning Rate 
@@ -36,3 +38,27 @@ Slopeweight = -24
 
 NewWeight = Weight -LearningRate *SlopeRate
 NewWeight = 2 - 0.01(-24) 
+
+#Slope Calculation Example, with two inputs and no activation function
+#Code to calucalte the slopes and update the weights
+Node1 = 3 
+Node2 = 4 
+Weight1 = 1
+Weight2 = 2 
+
+import numpy as np 
+weights = np.array([1, 2]) 
+inputdata = np.array([3, 4]) 
+targetvalue = 6 
+learningrate = 0.01
+slopeprediction = (weights * inputdata).sum()
+error = slopeprediction - targetvalue 
+print(error) 
+gradient = 2 * inputdata * error 
+gradient 
+#returns ([30,40}) 
+weightsupdated = weights - learningrate * gradient 
+predictionupdated = (weightsupdated * inputdata).sum()
+errorupdated = predictionupdated - target 
+print(errorupdated) 
+#returns -2.5 
