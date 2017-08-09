@@ -1,3 +1,5 @@
+#Examples are from DataCamp 
+
 #Gradient Descent 
 #A mathmatical term for an array of slopes 
 
@@ -50,3 +52,30 @@ predictionupdated = (weightsupdated * inputdata).sum()
 errorupdated = predictionupdated - target 
 print(errorupdated) 
 #returns -2.5 
+
+#Using a for loop to make multiple updates to weights 
+#Network has 3 input nodes, and 1 output node with no hidden nodes 
+#preload the get_slope() function with input_data, target, and weights
+#preload the get_mse() function with input_data, target and weights as arguments
+#weights is a single array 
+
+import matplotlib.pyplot
+n_updates = 20
+mse_hist = []
+
+# Iterate over the number of updates
+for i in range(n_updates):
+    # Calculate the slope: slope
+    slope = get_slope(input_data, target, weights)
+    # Update the weights: weights
+    weights = weights - 0.01 * slope
+    # Calculate mse with new weights: mse
+    mse = get_mse(input_data, target, weights)
+    # Append the mse to mse_hist
+    mse_hist.append(mse)
+# Plot the mse history
+plt.plot(mse_hist)
+plt.xlabel('Iterations')
+plt.ylabel('Mean Squared Error')
+plt.show()
+
