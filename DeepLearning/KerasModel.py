@@ -4,6 +4,8 @@
 #3 Fit 
 #4 Predict 
 
+#**Model Specification** 
+
 #ncols equals the number of nodes in the input layer 
 #multiple types of models, sequential is the easiest 
 #in a sequential model each layer has weights only to the layer coming directly after it 
