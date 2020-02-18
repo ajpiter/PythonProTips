@@ -29,7 +29,7 @@ petal_cov = covariance_matrix[0,1]
 print(petal_cov)
 
 #Pearson correlation coefficient 
-A measue of how two variables depend on each other, without any units 
+#A measue of how two variables depend on each other, without any units 
 #Divide the covariance by the standard deviations of x and y variables 
 #Ranges from -1 to 1. a value of 0 means there is no correlation bewteen the data 
 
