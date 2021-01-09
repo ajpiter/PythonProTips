@@ -1,4 +1,4 @@
-#Start Here: https://www.continuum.io/downloads
+#Start Here: https://www.anaconda.com/products/individual
 
 #On the terminal: 
 conda upgrade conda 
