@@ -1,5 +1,4 @@
 #Start Here: https://www.anaconda.com/products/individual
-#DataCamp Tutorial: https://www.datacamp.com/community/tutorials/installing-jupyter-notebook
 
 #On the terminal: 
 conda upgrade conda 
