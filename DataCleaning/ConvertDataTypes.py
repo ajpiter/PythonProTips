@@ -1,5 +1,11 @@
 # To find data types 
 print(dataframe.dtypes) 
+type(variable) 
+
+#You can always get info on a dataframe, before or after you make changes by using 
+print(dataframe.info())
+
+----- #Convert Data Types ----- 
 
 #To convert data to numeric 
 dataframe.columnname = pd.to_numeric(dataframe.columnname)
@@ -17,5 +23,7 @@ dataframe['columnname'] = dataframe['columnname'].astype('category')
 #If you change into numeric, invaild vaules in the column will be set as NaN missing value. 
 dataframe['columnname'] = pd.to-numeric(df['columnname'], errors = 'coerce') dataframe.dtypes
 
-#You can always get info on a dataframe, before or after you make changes by using 
-print(dataframe.info())
+----- #Adding Data Types -----
+#When adding float and int datatypes the result is a float
+
+#converting a float to an int truncates the fractional part of the number
