@@ -1,3 +1,17 @@
+#Common mathematical operators inlcude: 
+
+#Addition: + 
+#Subtraction: - 
+#Multiplication: * 
+#Rasing to Power: **
+
+#Floating Point Division vs. Integer Division 
+#Division, returns a float down to decimal: /
+#Integer Division, returns a whole interger number: // 
+#Returns the remainder: % 
+
+----- #Numpy Math -----
+
 np.mean(np_array[:,0])
 np.median(np_array[:,0])
 np.corrcoef(np_array[:,0], np_array[:,1])
