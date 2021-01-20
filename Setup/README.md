@@ -1,9 +1,14 @@
 # Setting Up Python 
 
 ## Setup Options 
-1. Download Python directly and use the Terminal to write code
-2. Download Python and download an IDE 
-3. Download Anaconda and launch IDE from Anaconda 
+1. Use an online IDE to run Python code
+2. Download Python directly and use the Terminal to write code
+3. Download Python and download an IDE 
+4. Download Anaconda and launch IDE from Anaconda 
+
+## Online IDE 
+https://repl.it/languages/python3
+Online web based IDEs are helpful for 
 
 ## Download Python
 https://www.python.org/downloads/release/python-371/
