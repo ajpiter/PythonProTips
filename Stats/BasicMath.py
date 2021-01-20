@@ -10,6 +10,12 @@
 #Integer Division, returns a whole interger number: // 
 #Returns the remainder: % 
 
+---- #Multiplying by Oneself -----
+#The statement 
+x *= y + z
+#is equivalent to 
+x = x * (y + z)
+
 ----- #Math Summaries of a Dataframe ----- 
 
 #Describe provides summary information on the dataset including: 
