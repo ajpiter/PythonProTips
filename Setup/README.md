@@ -8,7 +8,9 @@
 
 ## Online IDE 
 https://repl.it/languages/python3
-Online web based IDEs are helpful for 
+
+Online web based IDEs are helpful for quickly testing a short code snippet. 
+Note not all packages will work on all online IDEs, although most of the common packages Numphy etc are supported. 
 
 ## Download Python
 https://www.python.org/downloads/release/python-371/
