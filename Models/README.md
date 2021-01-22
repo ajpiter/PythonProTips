@@ -14,7 +14,7 @@ https://www.amazon.com/dp/B07BC3LFKT/?coliid=I2OO9Z19NMDNX0&colid=J71FGVZU2MCC&p
 ## Supervised Learning 
 
 ### Linear Networks (Most Common) 
-1. Almost an entire book devoted to regression and linear modeling. Covers concepts you forgot from stats class and how to implement in R or Python. From correlation, to sampling to accessing the model and cross validation. 
+1. **Practical Statistics for Data Science:** Almost an entire book devoted to regression and linear modeling. Covers concepts you forgot from stats class and how to implement in R or Python. From correlation, to sampling to accessing the model and cross validation. 
 https://www.amazon.com/dp/B08712TT3F/?coliid=I1QFDAWSRQ1J9M&colid=J71FGVZU2MCC&psc=0&ref_=lv_ov_lig_dp_it_im
 2. **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow:** Typical Regression basic intro. 
 https://www.amazon.com/dp/B07XGF2G87/?coliid=I1RTP0RJXRXYG0&colid=J71FGVZU2MCC&psc=0&ref_=lv_ov_lig_dp_it
