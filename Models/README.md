@@ -33,7 +33,7 @@ https://www.amazon.com/dp/B07ZQSCHSY/?coliid=I30OKHXOEMMSB4&colid=J71FGVZU2MCC&p
 #### Recurrent Neural Networks 
 #### Conditional Neural Networks 
 #### Dense Neural Networks 
-### Suport Vector Machines 
+### Support Vector Machines 
 
 ## Unsupervised Learning 
 ### Clustering 
