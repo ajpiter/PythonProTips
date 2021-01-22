@@ -36,6 +36,8 @@ https://www.amazon.com/dp/B07ZQSCHSY/?coliid=I30OKHXOEMMSB4&colid=J71FGVZU2MCC&p
 ### Support Vector Machines 
 
 ## Unsupervised Learning 
+1. Hands-On Unsupervised Learning with Python: Implement machine learning and deep learning models using Scikit-Learn, TensorFlow, and more I never knew there were so many types of clustering. Entire chapter on anomaly detection in clustering using Kernal density estimation (KDE)along with your typical Principal Component Analysis (PCA). https://www.amazon.com/dp/B07HHCNGDP/?coliid=I161Z18Y0UGJ8Q&colid=J71FGVZU2MCC&psc=0&ref_=lv_ov_lig_dp_it
+
 ### Clustering 
 #### K-Means Clustering (Most Common) 
 1. **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow:** Typical K-means basic intro. 
