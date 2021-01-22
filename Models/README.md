@@ -44,7 +44,7 @@ https://www.amazon.com/dp/B07ZQSCHSY/?coliid=I30OKHXOEMMSB4&colid=J71FGVZU2MCC&p
 https://www.amazon.com/dp/B07XGF2G87/?coliid=I1RTP0RJXRXYG0&colid=J71FGVZU2MCC&psc=0&ref_=lv_ov_lig_dp_it
 
 #### Density Based Special Clustering with Noise (DBSCAN) 
-1. **Hands-On Unsupervised Learning with Python: Implement machine learning and deep learning models using Scikit-Learn, TensorFlow, and more** I never knew there were so many types of clustering. Entire chapter on anomaly detection in clustering using Kernal density estimation (KDE)along with your typical Principal Component Analysis (PCA).
+1. **Hands-On Unsupervised Learning with Python: Implement machine learning and deep learning models using Scikit-Learn, TensorFlow, and more** A short explination of DBSCAN.  
 https://www.amazon.com/dp/B07HHCNGDP/?coliid=I161Z18Y0UGJ8Q&colid=J71FGVZU2MCC&psc=0&ref_=lv_ov_lig_dp_it
 
 ### Dimensionality Reduction 
