@@ -50,6 +50,9 @@ https://www.amazon.com/dp/B07HHCNGDP/?coliid=I161Z18Y0UGJ8Q&colid=J71FGVZU2MCC&p
 ### Dimensionality Reduction 
 1. **Data Mining for Business Analytics: Concepts, Techniques and Applications in Python** Chapter 4 is devoted to Dimensionality Reduction. 
 https://www.amazon.com/dp/B07ZQSCHSY/?coliid=I30OKHXOEMMSB4&colid=J71FGVZU2MCC&psc=0&ref_=lv_ov_lig_dp_it
+2. **Hands-On Unsupervised Learning with Python:** Implement machine learning and deep learning models using Scikit-Learn, TensorFlow, and more. Chapter 7 is devoted to Dimensionality Reduction. 
+https://www.amazon.com/dp/B07HHCNGDP/?coliid=I161Z18Y0UGJ8Q&colid=J71FGVZU2MCC&psc=0&ref_=lv_ov_lig_dp_it
+
 #### Principal Component Analysis (PCA) 
 1. **Hands-On Unsupervised Learning with Python: Implement machine learning and deep learning models using Scikit-Learn, TensorFlow, and more** Deeper explination of Principal Component Analysis (PCA).
 https://www.amazon.com/dp/B07HHCNGDP/?coliid=I161Z18Y0UGJ8Q&colid=J71FGVZU2MCC&psc=0&ref_=lv_ov_lig_dp_it
