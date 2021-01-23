@@ -30,7 +30,13 @@ https://www.amazon.com/dp/B07XGF2G87/?coliid=I1RTP0RJXRXYG0&colid=J71FGVZU2MCC&p
 https://www.amazon.com/dp/B07XGF2G87/?coliid=I1RTP0RJXRXYG0&colid=J71FGVZU2MCC&psc=0&ref_=lv_ov_lig_dp_it
 2. **Data Mining for Business Analytics: Concepts, Techniques and Applications in Python** Chapter 11 is devoted to Neural Networks. 
 https://www.amazon.com/dp/B07ZQSCHSY/?coliid=I30OKHXOEMMSB4&colid=J71FGVZU2MCC&psc=0&ref_=lv_ov_lig_dp_it
+3. **An Introduction to Machine Learning:** Great for expanding beyond the basic Neural Network concepts into applications. 5 chapters of ML applications that go beyond your standard this is how you set it up. UF Machine Learning Textbook. 
+https://www.amazon.com/Introduction-Machine-Learning-Gopinath-Rebala-ebook-dp-B07RK2267F/dp/B07RK2267F/ref=mt_other?_encoding=UTF8&me=&qid=1611355586
+
 #### Recurrent Neural Networks 
+1. **An Introduction to Machine Learning:** Chapter 11 is devoted to recurrent Neural Networks. 
+https://www.amazon.com/Introduction-Machine-Learning-Gopinath-Rebala-ebook-dp-B07RK2267F/dp/B07RK2267F/ref=mt_other?_encoding=UTF8&me=&qid=1611355586
+
 #### Conditional Neural Networks 
 #### Dense Neural Networks 
 ### Support Vector Machines 
