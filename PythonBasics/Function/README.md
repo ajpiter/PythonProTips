@@ -13,6 +13,9 @@ round(22.79)
 round(22.79, 1) 
 ##### output would be 22.8 
 
+### Documentation 
+##### help(round) 
+
 ### Methods call functions on objects 
 #Objects (Lists, Strings etc) have built in methods and you cannot run the method on the wrong object type. 
 #A method used on a list will not work on a string.
