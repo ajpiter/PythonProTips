@@ -1,5 +1,10 @@
 ## Built In Functions 
 
+### Common Functions 
+
+- print(): DataCamp Tutorial https://www.datacamp.com/community/tutorials/python-print-function
+- input(): Allows users to input data that is then calculated using a function 
+
 ### List Functions 
 
 Python offers the following list functions:
