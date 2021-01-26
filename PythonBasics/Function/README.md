@@ -4,26 +4,24 @@
 
 ### Built in Functions 
 
-For example to call the build in function round() on the variable grade. 
+Not all functions preform across all data types, and when they do they may preform differently. An easy way to organize built in functions is based on the datatype utilized. 
 
-grade = 89.5 
-
-grade = round(grade) 
-
-help(round) #pulls up the documentation of built in functions 
+- **Functions for Lists:** 
+- **input()** Allows users to input variables that is then used for a calculation within the function. 
 
 ### Writing Functions 
 
 def write_a_book(character, setting, special_skill):
-  
   print(character + " is in " + 
-        
         setting + " practicing her " + 
-        
         special_skill)
 
 write_a_book('Superman', 'Smallville', 'xRayVision') 
 
+### Examples of Functions Written 
+
+- **election_year()** Determines if a given year is an election year. 
+- **sayhello()** The hello world of functions 
 
 ### Resources 
 
