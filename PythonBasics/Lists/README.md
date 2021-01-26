@@ -14,7 +14,7 @@ float = [1.25, 15.99, 21.33]
 
 int = [1, 2, 3, 4] 
 
-#### List of Strings 
+#### Strings List
 
 str = ["a", "b", "c"] 
 
