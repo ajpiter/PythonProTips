@@ -1,0 +1,13 @@
+Lists Versus Tuples
+Tuples are used to collect an immutable ordered list of elements. This means that:
+
+You can’t add elements to a tuple. There’s no append() or extend() method for tuples,
+You can’t remove elements from a tuple. Tuples have no remove() or pop() method,
+You can find elements in a tuple since this doesn’t change the tuple.
+You can also use the in operator to check if an element exists in the tuple.
+
+So, if you’re defining a constant set of values and all you’re going to do with it is iterate through it, use a tuple instead of a list. 
+It will be faster than working with lists and also safer, as the tuples contain “write-protect” data.
+
+Source: DataCamp Tutorial 18 Most Common Python List Questions
+https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python
