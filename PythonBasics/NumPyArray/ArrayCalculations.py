@@ -34,3 +34,12 @@ np_weight = np.array([65.4, 59.2, 63.6, 88.4, 68.7])
 bmi = np_weight / np_heigh ** 2 
 bmi > 23
 #[output] array([False, False, True, False], dtype=bool) 
+
+----- #Example: Logical Comparisons with Array Outputs ----- 
+---- #Example: logical_and() ----- 
+np.logical_and(variable > 21, variable < 25) 
+#[output] TRUE
+np.logival_and(array > 21, array < 25) 
+#[output] array([True, False, True, True], dtype=bool)
+
+#Could use logical_and(), logical_or(), or logical_not() functions 
