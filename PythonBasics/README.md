@@ -13,10 +13,11 @@
 2. **Intergers:** Whole counting numbers  
 3. **String:** Text surrounded by "quotes"
 4. **Boolean:** is True or False 
-5. **Tuples:**
-6. **Dictionary:**
-7. **Lists:** A collection of values stored as List = [a, b, c]
+5. **Lists:** A collection of values stored as List = ['a', 'b', 'c'] or ListOfList = [(1, 2, 3), ('a', 'b', 'c')]
+6. **Dictionary:** Uses keys to reference values, {'a':1, 'b':2, 'c':3} 
+7. **Numpy Array:** Similar to a list but must be one data type. Allows for calculations over entire array. 
 8. **Set:** 
+9. **Tuples:**
 
 ## Functions & Loops 
 
