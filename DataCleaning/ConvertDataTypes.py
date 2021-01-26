@@ -7,6 +7,15 @@ print(dataframe.info())
 
 ----- #Convert Data Types ----- 
 
+#Functions to Convert Data Types in Base Python 
+int()
+float()
+bool()
+str()
+variable = str(variable) 
+print("Convert to non-strings " + str(number) + " to add in print statement.") 
+
+----- #Convert a Column of Data ----- 
 #To convert data to numeric 
 dataframe.columnname = pd.to_numeric(dataframe.columnname)
 
