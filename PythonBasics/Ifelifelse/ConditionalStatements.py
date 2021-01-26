@@ -1,4 +1,5 @@
-#conditional statements are if, else, elif statements 
+# Conditional statements are if, else, elif statements. 
+#Following the format 
 if condition: 
   expression 
 elif: 
@@ -6,7 +7,6 @@ elif:
 else: 
   expression 
   
-
 ----- #if Statement ----- 
 z = 4 
 if z % 2 == 0: 
