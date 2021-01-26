@@ -14,8 +14,3 @@ NpArray
 
 ##### Math calculations can be done across an enitre array 
 Calculation = NpArray / variable 
-
-### Adding Numpy Arrays 
-numpy_array = np.array([1, 2, 3])
-numpy_array + numpy_array
-array([2, 4, 6])
