@@ -16,6 +16,7 @@ NpArray = np.array([87.2, 43.9, 18.73])
 - **Array Calculations:** Can calculate over all values simultaneously 
 - **Create Arrays:** After importing the Numpy package 
 - **Series:** A one dimensional Numpy Array 
+- **Subsetting Arrays:** Use indexing to select portions of an array 
 
 ### Resources 
 - **DataCamp Cheatsheet** Python Arrays: https://www.datacamp.com/community/tutorials/python-arrays
