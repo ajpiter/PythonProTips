@@ -2,7 +2,7 @@
 
 You can create a list of values by putting them in [brackets] and assigning them a variable. 
 
-varialble = [item1, item2, item3, item4] 
+list = [item1, item2, item3, item4] 
 
 lists can contain any type of value, or multiple value types
 
