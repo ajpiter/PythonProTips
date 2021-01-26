@@ -1,4 +1,11 @@
 #conditional statements are if, else, elif statements 
+if condition: 
+  expression 
+elif: 
+  expression
+else: 
+  expression 
+  
 
 ----- #if Statement ----- 
 z = 4 
