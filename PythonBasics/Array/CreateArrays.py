@@ -1,3 +1,5 @@
+import numpy as np 
+
 #You can create a 2D NumPy Array by 
 #variable = np.array([list one], [list two])
 variable = np.array([[1,1,1,1,1], [25,26,27,28,29]])
