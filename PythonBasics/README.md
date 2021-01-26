@@ -15,7 +15,7 @@
 4. **Boolean:** is True or False 
 5. **Tuples:**
 6. **Dictionary:**
-7. **Lists:**
+7. **Lists:** A collection of values stored as List = [a, b, c]
 8. **Set:** 
 
 ## Functions & Loops 
