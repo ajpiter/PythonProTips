@@ -12,7 +12,7 @@ NpArray = np.array([87.2, 43.9, 18.73])
 
 ### Array Concepts 
 
-- **Adding Arrays:**
+- **Adding Arrays:** Array addition acts differently than list addition 
 
 ### Resources 
 - **DataCamp Cheatsheet** Python Arrays: https://www.datacamp.com/community/tutorials/python-arrays
