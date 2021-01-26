@@ -8,13 +8,7 @@ Arrays can only contain one data type, if you try to use multiple types they are
 
 import numpy as np 
 
-variable = 95 
-
 NpArray = np.array([87.2, 43.9, 18.73]) 
-
-NpArray
-
-[output] array([87.2, 43.9, 18.73]) 
 
 ### Array Concepts 
 
