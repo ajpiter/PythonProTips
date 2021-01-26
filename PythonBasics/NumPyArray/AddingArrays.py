@@ -3,6 +3,8 @@ python_list + python_list
 [1,2,3,1,2,3]
 
 #When adding two NumPy arrays the value of both lists are added to each other. 
+### Adding Numpy Arrays 
+numpy_array = np.array([1, 2, 3])
 numpy_array + numpy_array
 array([2,4,6])
 
