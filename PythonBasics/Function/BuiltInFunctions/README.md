@@ -1,7 +1,5 @@
 ## Built In Functions 
 
-### All Built in Functions
-
 ![image](https://user-images.githubusercontent.com/28680575/106216179-90fb9300-61a0-11eb-8e51-cb2c6d55296e.png)
 Compiled by Dr. Dogan for QMB6930 Python course 
 
