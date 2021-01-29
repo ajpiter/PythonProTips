@@ -23,7 +23,15 @@ Python offers the following list functions:
 - list(seq): Converts a tuple into a list.
 - cmp(list1, list2): It compares elements of both lists list1 and list2.
 
+### Functions from Packages 
 
+There are many more functions that are store in modules. You can access them by calling:  
+
+from module import function 
+
+from math import sqrt 
+
+import math as m 
 
 ### Resources 
 
