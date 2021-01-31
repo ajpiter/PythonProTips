@@ -11,5 +11,9 @@ list = [item1, item2, item3, item4]
 - **Slicing Lists:** Control which values of a list you see, uses indexing 
 - **Subset Lists:** Use Comparisons to determine which elements of a list to keep 
 
+### Functions for Lists 
+- **.append()** Referenced in Mainpulating Lists 
+- **.extend()** Referenced in Mainpulating Lists 
+
 ### Resources 
 **Code Academy Cheatsheet** https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-lists/cheatsheet
