@@ -8,7 +8,7 @@
 #Floating Point Division vs. Integer Division 
 #Division, returns a float down to decimal: /
 #Integer Division, returns a whole interger number: // 
-#Returns the remainder: % 
+#Returns the remainder: % (See Modulo for an example) 
 
 ---- #Multiplying by Oneself -----
 #The statement 
