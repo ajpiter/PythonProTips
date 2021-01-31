@@ -17,5 +17,6 @@ Add dimensions to conditional statements by incoporating And, Or, Not parameters
 - **Magic 8-Ball:** Input(), random.randint(), If, Elif, Else
 - **Quiz Questions:** If, Else
 
-Code Academy has a great cheatsheet for learning about lists: 
-https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-lists/cheatsheet
+### Resources: 
+- **Code Academy Cheatsheet:** Honestly serves both as a great reminder and an one page introductory how-to.   
+https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-control-flow/cheatsheet
