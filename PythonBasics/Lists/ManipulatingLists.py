@@ -10,10 +10,26 @@ basiclist = ['a', 1, 'b', 2, 'c', 3]
 basiclist[0:2] = ['z', 26] 
 #output of basiclist would be ['z', 26, 'b', 2, 'c', 3] 
 
-#To add elements to a list 
+#To add an element to a list with .append()
 basiclist = ['a', 1, 'b', 2, 'c', 3] 
-basiclist + ['d', 4] 
+basiclist.append('d')
+#output of basiclist would be ['a', 1, 'b', 2, 'c', 3, 'd']
+# .append() only works to add a single element to a list 
+
+#To add multiple elements to a list with .extend() 
+basiclist = ['a', 1, 'b', 2, 'c', 3] 
+basiclist.extend(['d', 4])
+#output of basiclist would be ['a', 1, 'b', 2, 'c', 3, 'd', 4]
+
+#To add elements to a list with += 
+basiclist = ['a', 1, 'b', 2, 'c', 3] 
+basiclist += ['d', 4] 
 #output of basiclist would be ['a', 1, 'b', 2, 'c', 3, 'd', 4] 
+
+#To add elements to a new list 
+basiclist = ['a', 1, 'b', 2, 'c', 3] 
+updatedlist = basiclist + ['d', 4]
+#output of updatedlist would be ['a', 1, 'b', 2, 'c', 3, 'd', 4] 
 
 #To remove specified elements from a list 
 basiclist = ['a', 1, 'b', 2, 'c', 3]
