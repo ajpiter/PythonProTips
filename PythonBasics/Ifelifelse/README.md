@@ -12,6 +12,7 @@ else:
 Incoporating "And, Or, Not" to conditional statements can add dimensions by incoporating And, Or, Not parameters. 
 
 ### Examples: 
+- **Calculating Cheapest Shipping Methods:** Input(), If, Elif, Else 
 - **Interplanetary Weight Calculator:** Input(), If, Elif, Else 
 - **Magic 8-Ball:** Input(), random.randint(), If, Elif, Else
 
