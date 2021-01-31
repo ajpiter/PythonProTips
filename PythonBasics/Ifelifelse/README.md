@@ -13,6 +13,7 @@ Incoporating "And, Or, Not" to conditional statements can add dimensions by inco
 
 ### Examples: 
 - **Interplanetary Weight Calculator:** Input(), If, Elif, Else 
+- **Magic 8-Ball:** Input(), random.randint(), If, Elif, Else
 
 
 
