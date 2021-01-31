@@ -12,8 +12,9 @@ list = [item1, item2, item3, item4]
 - **Subset Lists:** Use Comparisons to determine which elements of a list to keep 
 
 ### Functions for Lists 
-- **.append()** Referenced in Mainpulating Lists 
-- **.extend()** Referenced in Mainpulating Lists 
+- **.append()** Referenced in Mainpulating Lists, allows you to add an item to a list.  
+- **.extend()** Referenced in Mainpulating Lists, allows you to add multiple items to a list. 
+- **index()** Referenced in Indexing, allows you to look up the index of an element in a list. 
 
 ### Resources 
 **Code Academy Cheatsheet** https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-lists/cheatsheet
