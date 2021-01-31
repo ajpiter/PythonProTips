@@ -7,6 +7,7 @@ list = [item1, item2, item3, item4]
 - **Copying Lists:** Need to copy the values not the reference by using y = list(x) 
 - **DataType:** lists can contain any type of value, or multiple value types
 - **Indexing Lists:** List index begins with 0 [0, 1, 2, 3] or -1 from the end [-4, -3, -2, -1]
+- **List of Lists:** Creating & mainpulating [[1,2,3], [a,b,c]]
 - **Mainpulating Lists:** Changing values, adding additional values or removing values from a list 
 - **Slicing Lists:** Control which values of a list you see, uses indexing 
 - **Subset Lists:** Use Comparisons to determine which elements of a list to keep 
