@@ -52,15 +52,3 @@ elif z % 3 == 0:
 else:
   print('z is neither divisible by 2 nor by 3')
 #output z is divisible by 3 
-
-## Input Example 
-
-#request a user input a value and then check to see if the value is within the range of acceptable numbers. 
-TempC = int(input("Please enter the tempature in Celsius:"))
-if TempC >= -90: # First check
-    if TempC <= 58: # Second check
-        print("The tempature in F is ", (TempC*2 + 30))
-    else:
-        print("Are you sure you entered the Tempature in C? ", TempC, "is larger than the highest recorded temperature.")
-else:
-    print("Are you sure you entered the Tempature in C?", TempC, "is smaller than the lowest recorded temperature.")
