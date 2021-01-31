@@ -9,7 +9,7 @@ elif:
 else: 
   expression 
 
-Incoporating "And, Or, Not" to conditional statements can add dimensions by incoporating And, Or, Not parameters. 
+Add dimensions to conditional statements by incoporating And, Or, Not parameters. 
 
 ### Examples: 
 - **Calculating Cheapest Shipping Methods:** Input(), If, Elif, Else 
