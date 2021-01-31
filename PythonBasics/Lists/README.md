@@ -15,6 +15,8 @@ list = [item1, item2, item3, item4]
 - **.append()** Referenced in Mainpulating Lists, allows you to add an item to a list.  
 - **.extend()** Referenced in Mainpulating Lists, allows you to add multiple items to a list. 
 - **index()** Referenced in Indexing, allows you to look up the index of an element in a list. 
+- **.remove()** Referenced in Mainpulating Lists, allows you to add remove items in a list.
+- **.reverse()** Referenced in Mainpulating Lists, allows you to add reverse items in a list.
 
 ### Resources 
 **Code Academy Cheatsheet** https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-lists/cheatsheet
