@@ -20,3 +20,4 @@ Add dimensions to conditional statements by incoporating And, Or, Not parameters
 ### Resources: 
 - **Code Academy Cheatsheet:** Honestly serves both as a great reminder and an one page introductory how-to.   
 https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-control-flow/cheatsheet
+- **w3Schools Exercises:** Fill in the blank quiz style prep. https://www.w3schools.com/python/exercise.asp?filename=exercise_ifelse2
