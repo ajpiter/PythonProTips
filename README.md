@@ -7,7 +7,10 @@
 #Some of my reminders will have excuteable code as examples. The majority of the time this code was written after viewing multiple how to classes online and changed to be as generic as possible in order to allow me to apply variations to future projects. For example code to upload a text file is written below. 
  
 import numpy as np 
+
 filenamevariable = 'filename.txt'
+
 data = np.loadtext(filenamevariable, delimiter = ',')
+
 
 #If for any reason I copied an example in full or in part I acknowlege that at the top of the page. 
