@@ -1,6 +1,3 @@
-**DataCamp Tutorial Installing Jupyter Notebook:** https://www.datacamp.com/community/tutorials/installing-jupyter-notebook
-**Difference between Jupyter Notebook and Jupyter Lab:** https://medium.com/analytics-vidhya/why-switch-to-jupyterlab-from-jupyter-notebook-c6d98362945b#:~:text=Jupyter%20Notebook%20is%20a%20web,for%20creating%20Jupyter%20notebook%20documents.&text=JupyterLab%20is%20the%20next%2Dgeneration,tabs%20in%20the%20same%20window  
-
 # Method 1: Launch Through Terminal 
 
 ## Install Jupyter notebook through Pip,  
