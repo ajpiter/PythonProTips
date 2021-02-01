@@ -6,9 +6,8 @@ This is where I will store my reminders and by reminders I mean step by step ins
 
 Some of my reminders will have excuteable code as examples. The majority of the time this code was written after viewing multiple how to classes online and changed to be as generic as possible in order to allow me to apply variations to future projects. For example code to upload a text file is written below. 
  
-import numpy as np 
-
-filenamevariable = 'filename.txt'
+#### import numpy as np 
+#### filenamevariable = 'filename.txt'
 
 data = np.loadtext(filenamevariable, delimiter = ',')
 
