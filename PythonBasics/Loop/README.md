@@ -7,7 +7,7 @@ Loops allow you to repeat a block of code without having to retype it.
 - **List Comprehensions:** Loops that create new lists
 
 ### Loop Keywords 
--**break:** You can stop a for loop from inside the loop by using break. When the program hits a break statement, control returns to the code outside of the for loop.
+- **break:** You can stop a for loop from inside the loop by using break. When the program hits a break statement, control returns to the code outside of the for loop.
 
 ### Functions in Loops 
 
