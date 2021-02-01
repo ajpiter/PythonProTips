@@ -1,7 +1,14 @@
 ## Loops 
-##### Loops allow you to repeat a block of code without having to retype it. 
+Loops allow you to repeat a block of code without having to retype it.  
+
+## For Loops 
+Loops that let us move through each item in a list. 
+
+## While Loops 
+Loops that keep going until we tell them to stop. 
 
 ### While TRUE 
-##### Runs until the statement is no longer TRUE. Code after a While TRUE loop will never run, because the program is constantly runing through the loop. 
+Runs until the statement is no longer TRUE. Code after a While TRUE loop will never run, because the program is constantly runing through the loop. 
 
-  
+## List Comprehensions 
+Loops that create new lists
