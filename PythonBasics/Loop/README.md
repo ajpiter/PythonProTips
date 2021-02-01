@@ -8,7 +8,7 @@ Loops allow you to repeat a block of code without having to retype it.
 
 ### Functions in Loops 
 
-- **range()** 
+- **range()** Complete a task a number of times specified in the range()
 
 ### Resources 
 [Code Academy Cheatsheet: Loops](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-loops/cheatsheet)
