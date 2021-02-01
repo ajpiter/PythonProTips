@@ -8,8 +8,8 @@ Some of my reminders will have excuteable code as examples. The majority of the 
  
 #### import numpy as np 
 #### filenamevariable = 'filename.txt'
+#### data = np.loadtext(filenamevariable, delimiter = ',')
 
-data = np.loadtext(filenamevariable, delimiter = ',')
 
 
 If for any reason I copied an example in full or in part I acknowlege that at the top of the page. 
