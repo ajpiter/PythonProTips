@@ -14,6 +14,7 @@ list = [item1, item2, item3, item4]
 
 ### Functions for Lists 
 - **.append()** Referenced in Mainpulating Lists, add an item to a list.  
+- **.count()** Referenced in Mainpulating Lists, how many times does an element occur in a list. 
 - **.extend()** Referenced in Mainpulating Lists, add multiple items to a list. 
 - **index()** Referenced in Indexing, look up the index of an element in a list. 
 - **range()** Referenced in Range(), create an interger list 
