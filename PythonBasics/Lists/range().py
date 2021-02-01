@@ -9,6 +9,7 @@ my_range = range(10)
 
 #The range function returns an object that we can convert into a list:
 print(list(my_range))
+#my_range = list(range(10)) #or in one line of code
 #[output] [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 #Check your work by printing the range
