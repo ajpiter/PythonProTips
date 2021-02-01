@@ -11,7 +11,7 @@ https://repl.it/languages/python3
 
 Online web based IDEs can be used on any browser including on tablets and cell phones. 
 Which is helpful for quickly testing a short code snippet. 
-Note not all packages will work on all online IDEs, although most of the common packages Numphy etc are supported. 
+Note not all packages will work on all online IDEs, although most of the common packages Numpy etc are supported. 
 
 ## Download Python
 https://www.python.org/downloads/release/python-371/
