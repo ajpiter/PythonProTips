@@ -35,8 +35,3 @@ https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-control-fl
 - **$ O'Reilly Textbook "Python for Data Analsis:** Explains how to setup Jupyter, and key packages including NumPy, pandas, and matplotlib. You need to take the jump to Jupyter or another IDE and use packages if you are ever going to write anything on your own. There are a bunch of other textbooks for learning Python basics. I recommend this since O'Reilly since the familar formating will be nice when trying to learn higher level concepts from some of their other textbooks. https://www.amazon.com/dp/B075X4LT6K/?coliid=I1J7OQP44GOXUE&colid=J71FGVZU2MCC&psc=0&ref_=lv_ov_lig_dp_it
 - **$$$ O'Reilly Online Portal:** At $49 a month this is an expensive way to learn the basics. Buy one of their books on Amazon, if you like the format and are committed to going through 3+ concept books a month it's worth the investment when you are passed the basics. 
 - **$ Code Combat** Great bonus resource for practicing syntax dozens of times. It's a kids game so you won't be copying any of the code to future projects but it does help increase your speed. Backwoods Forest is the first level with if statements, and you will have to beat the lower level beforehand. https://codecombat.com/play
-
-  
-## Pro-Tip: Summary Info 
-
-#### It's always a best practice when uploading a new dataframe for analysis to run a couple summary functions. 
