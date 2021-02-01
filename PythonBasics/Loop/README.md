@@ -6,6 +6,9 @@ Loops allow you to repeat a block of code without having to retype it.
 - - **While True:** Runs until the statement is no longer TRUE. Code after a While TRUE loop will never run, because the program is constantly runing through the loop. 
 - **List Comprehensions:** Loops that create new lists
 
+### Loop Keywords 
+-**break:** You can stop a for loop from inside the loop by using break. When the program hits a break statement, control returns to the code outside of the for loop.
+
 ### Functions in Loops 
 
 - **range()** Complete a task a number of times specified in the range()
