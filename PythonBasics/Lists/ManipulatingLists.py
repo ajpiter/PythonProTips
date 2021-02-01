@@ -46,3 +46,8 @@ basiclist = ['a', 1, 'b', 2, 'c', 3]
 basiclist.reverse()
 #output of y would be [3, 'c', 2, 'b', 1, 'a'] 
 
+#To examin the lenght of a list 
+basiclist = ['a', 1, 'b', 2, 'c', 3] 
+len(basiclist) 
+#output would be 6 
+
