@@ -37,3 +37,25 @@ for c in 'family':
 #Output I 
 #Output L 
 #Output Y 
+        
+----- #Use range() to specify the number of times to run a loop ----- 
+#This statement does not require a list or a variables, instead for the number of i inside the range() you are printing 
+for i in range(1): 
+   print('Hello')
+#output Hello 
+
+#i can be changed to any string
+#the '#' inside range() is the number of times the loops runs 
+for anything in range(2): 
+    print('Bye') 
+#output Bye
+#output Bye 
+
+#Only indented code is included in the for loop and repeats based on range() 
+for lyric in range(3):
+    print('row')
+print('your boat') 
+#row
+#row
+#row
+#your boat
