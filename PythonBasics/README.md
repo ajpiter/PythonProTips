@@ -17,7 +17,7 @@
 6. **Dictionary:** Uses keys to reference values, {'a':1, 'b':2, 'c':3} 
 7. **Numpy Array:** Similar to a list but must be one data type. Allows for calculations over entire array. 
 8. **Set:** 
-9. **Tuples:**
+9. **Tuples:** Similar to a list but is immutable meaning elements cannot be changed. 
 
 ## Functions & Loops 
 
