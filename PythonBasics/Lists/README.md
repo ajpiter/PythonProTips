@@ -16,6 +16,7 @@ list = [item1, item2, item3, item4]
 - **.append()** Referenced in Mainpulating Lists, add an item to a list.  
 - **.extend()** Referenced in Mainpulating Lists, add multiple items to a list. 
 - **index()** Referenced in Indexing, look up the index of an element in a list. 
+- **range()** Referenced in Range(), create an interger list 
 - **.remove()** Referenced in Mainpulating Lists, add remove items in a list.
 - **.reverse()** Referenced in Mainpulating Lists, add reverse items in a list.
 - **zip()** Referenced in List of Lists, combine two lists into a list of lists
