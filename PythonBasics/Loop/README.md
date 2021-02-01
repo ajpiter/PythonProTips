@@ -6,5 +6,9 @@ Loops allow you to repeat a block of code without having to retype it.
 - - **While True:** Runs until the statement is no longer TRUE. Code after a While TRUE loop will never run, because the program is constantly runing through the loop. 
 - **List Comprehensions:** Loops that create new lists
 
+### Functions in Loops 
+
+-**range()** 
+
 ### Resources 
 [Code Academy Cheatsheet: Loops](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-loops/cheatsheet)
