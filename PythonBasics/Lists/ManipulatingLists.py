@@ -51,3 +51,8 @@ basiclist = ['a', 1, 'b', 2, 'c', 3]
 len(basiclist) 
 #output would be 6 
 
+#To count the number of times an element appears in a list 
+boolist = [True, False, True, True, True, False, True, True, False]
+CountTrue = boolist.count(True)
+print(CountTrue) 
+#output would be 6 
