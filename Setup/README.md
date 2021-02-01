@@ -18,7 +18,7 @@ https://www.python.org/downloads/release/python-371/
 
 ## Download an IDE 
 First you will need to decide which IDE is best for your needs. 
-The most Popular IDE's according to a 2019 DataCamp article: https://www.datacamp.com/community/tutorials/top-python-ides-for-2019
+The most Popular IDE's according to a [2019 DataCamp article:](https://www.datacamp.com/community/tutorials/top-python-ides-for-2019)
 
 ![image](https://user-images.githubusercontent.com/28680575/104382910-fbec6f00-54fc-11eb-9a67-9431368822e7.png)
 
