@@ -38,6 +38,21 @@ for c in 'family':
 #Output L 
 #Output Y 
         
+#Prints every letter in "Amanda"
+word = "Amanda"
+for a in word: 
+    print('[', a, ']', end='', sep='')
+print()
+#Output [A][m][a][n][d][a]
+
+#Prints a in "Amanda"
+word = "Amanda"
+for a in word: 
+    if a == 'a': 
+        print('[', a, ']', end='', sep='')
+print()
+#output [a][a]
+        
 ----- #Use range() to specify the number of times to run a loop ----- 
 #This statement does not require a list or a variables, instead for the number of i inside the range() you are printing 
 for i in range(1): 
