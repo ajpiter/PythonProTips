@@ -6,7 +6,7 @@ SizeMultiTable = 12
 for row in range(1, SizeMultiTable + 1):
     for column in range(1, SizeMultiTable + 1): 
         product = row*column 
-        print('{0:4}'.format(product), end='')
+        print('{0:4}'.format(product), end='') #Where {0:4} indicates how far apart the numbers in the table are printed and end='' that they are printed in table form
     print()
     
 """ output 
