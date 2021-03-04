@@ -16,7 +16,7 @@
 5. **Lists:** A collection of values stored as List = ['a', 'b', 'c'] or ListOfList = [(1, 2, 3), ('a', 'b', 'c')]
 6. **Dictionary:** Uses keys to reference values, {'a':1, 'b':2, 'c':3} 
 7. **Numpy Array:** Similar to a list but must be one data type. Allows for calculations over entire array. 
-8. **Set:** 
+8. **Set:** Similar to a list but without duplicates. 
 9. **Tuples:** Similar to a list but is immutable meaning elements cannot be changed. 
 
 ## Functions & Loops 
