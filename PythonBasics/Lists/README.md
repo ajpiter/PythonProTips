@@ -13,15 +13,17 @@ list = [item1, item2, item3, item4]
 - **Subset Lists:** Use Comparisons to determine which elements of a list to keep 
 
 ### Functions for Lists 
+- **index()** Referenced in Indexing, look up the index of an element in a list. 
+- **range()** Referenced in Range(), create an interger list 
+- **zip()** Referenced in List of Lists, combine two lists into a list of lists
+- **zip(x, cycle())** Referenced in List of Lists, iterate values from one list over values in another list 
+
+### Methods for Lists 
 - **.append()** Referenced in Mainpulating Lists, add an item to a list.  
 - **.count()** Referenced in Mainpulating Lists, how many times does an element occur in a list. 
 - **.extend()** Referenced in Mainpulating Lists, add multiple items to a list. 
-- **index()** Referenced in Indexing, look up the index of an element in a list. 
-- **range()** Referenced in Range(), create an interger list 
 - **.remove()** Referenced in Mainpulating Lists, add remove items in a list.
 - **.reverse()** Referenced in Mainpulating Lists, add reverse items in a list.
-- **zip()** Referenced in List of Lists, combine two lists into a list of lists
-- **zip(x, cycle())** Referenced in List of Lists, iterate values from one list over values in another list 
 
 ### Resources 
 **Code Academy Cheatsheet** https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-lists/cheatsheet
