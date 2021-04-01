@@ -6,10 +6,16 @@ Neural Networks are Deep Learning Models that take input(s) X, and predict outpu
 
 As shown in the image above from Towards Ai, there are numerous types of nerural networks. Below I outline some of the more common models, and their typical use cases.  
 
-## Dense Network
+## Dense Neural Network
+In a dense neural network, every node in a hidden layer is connected with every node in the preceding layer (either input or previous hidden layer) and are the most common type of neural networks.  
+
 - [Dense Network, Single Hidden Layer](https://github.com/ajpiter/PythonProTips/blob/master/DeepLearning/Dense_Network_Single_Hidden_Layer.ipynb): An example of the simplest of neural networks with a single input, a single hidden layer, and a single output. 
 - [Dense Network, Single Hidden Layer with Two Nodes](https://github.com/ajpiter/PythonProTips/blob/master/DeepLearning/Dense_Network,_Hidden_Layer_with_Two_Nodes.ipynb): An example of how to calculate the value of hidden layers and outputs with mathmatical formulas. 
 - [Udacity Celcuis to Fahrenheit](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l02c01_celsius_to_fahrenheit.ipynb): An step by step walk through on how to create a neural network with a single input layer, a single hidden layer and single output.  
+
+## Sequential Neural Network 
+Nodes in a sequential neural network are only connected with a single node in the proceeding layer, making them the simplest neural networks. 
+- [Digit Recoginition Model](https://github.com/ajpiter/PythonProTips/blob/master/DeepLearning/DigitRegonitionModel.py Given an image of a number as an input, predicts which number it is as an output. Created as part of Udacity's Deep Learning Nano Degree. 
 
 ## CNNs Convolutional Neural Networks 
 - CNNs are often used for image classification problems. 
