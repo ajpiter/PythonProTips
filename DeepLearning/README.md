@@ -7,7 +7,7 @@ Neural Networks are Deep Learning Models that take input(s) X, and predict outpu
 As shown in the image above from Towards Ai, there are numerous types of nerural networks. Below I outline some of the more common models, and their typical use cases.  
 
 ## Dense Network
-- A single input, a single layer, and a single output.
+- [Dense Network, Single Layer](https://github.com/ajpiter/PythonProTips/blob/master/DeepLearning/Dense_Network_Single_Layer.ipynb): A single input, a single layer, and a single output.
 - [Udacity Celcuis to Fahrenheit](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l02c01_celsius_to_fahrenheit.ipynb) 
 
 ## CNNs Convolutional Neural Networks 
