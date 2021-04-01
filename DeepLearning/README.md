@@ -8,7 +8,8 @@ As shown in the image above from Towards Ai, there are numerous types of nerural
 
 ## Dense Network
 - [Dense Network, Single Hidden Layer](https://github.com/ajpiter/PythonProTips/blob/master/DeepLearning/Dense_Network_Single_Hidden_Layer.ipynb): An example of the simplest of neural networks with a single input, a single hidden layer, and a single output. 
-- [Udacity Celcuis to Fahrenheit](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l02c01_celsius_to_fahrenheit.ipynb) 
+- [Dense Network, Single Hidden Layer with Two Nodes](https://github.com/ajpiter/PythonProTips/blob/master/DeepLearning/Dense_Network,_Hidden_Layer_with_Two_Nodes.ipynb): An example of how to calculate the value of hidden layers and outputs with mathmatical formulas. 
+- [Udacity Celcuis to Fahrenheit](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l02c01_celsius_to_fahrenheit.ipynb): An step by step walk through on how to create a neural network with a single input layer, a single hidden layer and single output.  
 
 ## CNNs Convolutional Neural Networks 
 - CNNs are often used for image classification problems. 
