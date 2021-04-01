@@ -28,7 +28,10 @@ Nodes in a sequential neural network are only connected with a single node in th
 
 ### Resources 
 [1] Chollet, Francois. Deep Learning with Python, Second Edition. 2020. https://livebook.manning.com/book/deep-learning-with-python-second-edition/welcome/v-5/5
+
 [2] Deep Learning Foundation Nanodegree Program. Udacity https://classroom.udacity.com/nanodegrees/nd101/dashboard/overview
+
 [3] Iriondo, R. Shikla, P. Main Types of Nerual Networks. Towards Ai. https://pub.towardsai.net/main-types-of-neural-networks-and-its-applications-tutorial-734480d7ec8e
+
 [4] Ng, Andrew. Deep Learning Specialization on Coursea. DeepLearning.AI. https://www.coursera.org/specializations/deep-learning
 
