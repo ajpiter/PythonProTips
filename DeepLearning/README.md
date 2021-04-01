@@ -8,7 +8,7 @@ As shown in the image above from Towards Ai, there are numerous types of nerural
 
 ## Dense Network
 - A single input, a single layer, and a single output. 
-- Example [Udacity Celcuis to Fahrenheit] https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l02c01_celsius_to_fahrenheit.ipynb 
+- Example [Udacity Celcuis to Fahrenheit] (https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l02c01_celsius_to_fahrenheit.ipynb) 
 
 ## CNNs Convolutional Neural Networks 
 - CNNs are often used for image classification problems. 
