@@ -15,7 +15,7 @@ In a dense neural network, every node in a hidden layer is connected with every 
 
 ## Sequential Neural Network 
 Nodes in a sequential neural network are only connected with a single node in the proceeding layer, making them the simplest neural networks. 
-- [Digit Recoginition Model](https://github.com/ajpiter/PythonProTips/blob/master/DeepLearning/DigitRegonitionModel.py Given an image of a number as an input, predicts which number it is as an output. Created as part of Udacity's Deep Learning Nano Degree. 
+- [Digit Recoginition Model](https://github.com/ajpiter/PythonProTips/blob/master/DeepLearning/DigitRegonitionModel.py) Given an image of a number as an input, predicts which number it is as an output. Created as part of Udacity's Deep Learning Nano Degree. 
 
 ## CNNs Convolutional Neural Networks 
 - CNNs are often used for image classification problems. 
