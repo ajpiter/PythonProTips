@@ -29,7 +29,10 @@ CNNs are often used for image classification problems.
 - [CNN Image Classification Color Cats & Dogs With Augmentation](): Image Classification using a CNN layer to process color images into binary output. Where augmentation creates additional inputs by cropping or rotating orginal images in the dataset. Notebook is part of [Udacity's Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187) course.
 
 ## RNNs Recurrent Neural Networks 
-- RNNs are a type of sequence model that is often used in Natural Language Processing and speach recoginization. 
+RNNs are a type of sequence model that is often used in 
+1. Natural Language Processing (NLP)
+2. Speach Recoginization
+3. Time Series 
 
 ### Resources 
 [1] Chollet, Francois. Deep Learning with Python, Second Edition. 2020. https://livebook.manning.com/book/deep-learning-with-python-second-edition/welcome/v-5/5
