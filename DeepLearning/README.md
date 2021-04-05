@@ -25,6 +25,7 @@ Nodes in a sequential neural network are only connected with a single node in th
 
 CNNs are often used for image classification problems. 
 - [CNN Image Classification Greyscale Faishon MNIST](https://github.com/ajpiter/PythonProTips/blob/master/DeepLearning/CNN/CNN_Image_Classification_Greyscale_Fashion_MNIST.ipynb): Image Classification using a CNN layer to process greyscale images into one of 10 categorical outputs. Notebook is part of [Udacity's Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187) course.
+- [CNN Image Classification Color Cats & Dogs Without Augmentation](https://github.com/ajpiter/PythonProTips/blob/master/DeepLearning/CNN/Color_Image_Dogs_Cats_Wo_Augmentation.ipynb): Image Classification using a CNN layer to process color images into binary output. Notebook is part of [Udacity's Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187) course.
 
 ## RNNs Recurrent Neural Networks 
 - RNNs are a type of sequence model that is often used in Natural Language Processing and speach recoginization. 
