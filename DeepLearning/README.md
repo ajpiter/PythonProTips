@@ -14,19 +14,20 @@ In a dense neural network, every node in a hidden layer is connected with every 
 - [Image Classification Greyscale Faishon MNIST](https://github.com/ajpiter/PythonProTips/blob/master/DeepLearning/Image_Classification_Greyscale_Fashion_MNIST.ipynb): Image Classification using a single hidden layer to process greyscale images into one of 10 categorical outputs. Notebook is part of [Udacity's Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187) course.
 - [Udacity Celcuis to Fahrenheit](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l02c01_celsius_to_fahrenheit.ipynb): An step by step walk through on how to create a neural network with a single input layer, a single hidden layer and single output.  
 
-
 ## Sequential Neural Network 
 Nodes in a sequential neural network are only connected with a single node in the proceeding layer, making them the simplest neural networks. 
 - [Digit Recoginition Model](https://github.com/ajpiter/PythonProTips/blob/master/DeepLearning/DigitRegonitionModel.py) Given an image of a number as an input, predicts which number it is as an output. Created as part of Udacity's Deep Learning Nano Degree. 
 
 ## CNNs Convolutional Neural Networks 
-- CNNs are often used for image classification problems. 
+CNNs are often used for image classification problems. 
 
-## LSTM Models 
+![image](https://user-images.githubusercontent.com/28680575/113540324-e8a5e880-95ad-11eb-9d9a-685b349a1279.png)
+[Image Source, SuperDataScience](https://www.superdatascience.com/blogs/convolutional-neural-networks-cnn-summary/)
+
+- [CNN Image Classification Greyscale Faishon MNIST](https://github.com/ajpiter/PythonProTips/blob/master/DeepLearning/CNN/CNN_Image_Classification_Greyscale_Fashion_MNIST.ipynb): Image Classification using a CNN layer to process greyscale images into one of 10 categorical outputs. Notebook is part of [Udacity's Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187) course.
 
 ## RNNs Recurrent Neural Networks 
 - RNNs are a type of sequence model that is often used in Natural Language Processing and speach recoginization. 
-
 
 ### Resources 
 [1] Chollet, Francois. Deep Learning with Python, Second Edition. 2020. https://livebook.manning.com/book/deep-learning-with-python-second-edition/welcome/v-5/5
