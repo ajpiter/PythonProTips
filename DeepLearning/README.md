@@ -19,11 +19,11 @@ Nodes in a sequential neural network are only connected with a single node in th
 - [Digit Recoginition Model](https://github.com/ajpiter/PythonProTips/blob/master/DeepLearning/DigitRegonitionModel.py) Given an image of a number as an input, predicts which number it is as an output. Created as part of Udacity's Deep Learning Nano Degree. 
 
 ## CNNs Convolutional Neural Networks 
-CNNs are often used for image classification problems. 
-
 ![image](https://user-images.githubusercontent.com/28680575/113540324-e8a5e880-95ad-11eb-9d9a-685b349a1279.png)
+
 [Image Source, SuperDataScience](https://www.superdatascience.com/blogs/convolutional-neural-networks-cnn-summary/)
 
+CNNs are often used for image classification problems. 
 - [CNN Image Classification Greyscale Faishon MNIST](https://github.com/ajpiter/PythonProTips/blob/master/DeepLearning/CNN/CNN_Image_Classification_Greyscale_Fashion_MNIST.ipynb): Image Classification using a CNN layer to process greyscale images into one of 10 categorical outputs. Notebook is part of [Udacity's Intro to TensorFlow for Deep Learning](https://classroom.udacity.com/courses/ud187) course.
 
 ## RNNs Recurrent Neural Networks 
